@@ -1,0 +1,19 @@
+Noise type,Filter,Kernel size,PSNR (dB)
+Gaussian,Box,3,30.54
+Gaussian,Box,5,27.819
+Gaussian,Box,7,26.0
+Gaussian,Gaussian,3,31.082
+Gaussian,Gaussian,5,30.434
+Gaussian,Gaussian,7,28.871
+Gaussian,Median,3,29.913
+Gaussian,Median,5,28.434
+Gaussian,Median,7,26.656
+Salt-and-pepper,Box,3,25.821
+Salt-and-pepper,Box,5,26.1
+Salt-and-pepper,Box,7,25.154
+Salt-and-pepper,Gaussian,3,25.373
+Salt-and-pepper,Gaussian,5,26.641
+Salt-and-pepper,Gaussian,7,26.752
+Salt-and-pepper,Median,3,33.948
+Salt-and-pepper,Median,5,29.386
+Salt-and-pepper,Median,7,27.002
